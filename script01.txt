@@ -12,3 +12,6 @@ branch_var4 = 3;
 
 branch_var5 = 0;
 branch_var6 = 1;
+
+branch_var7 = 2;
+branch_var8 = 3;
