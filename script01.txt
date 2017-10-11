@@ -1,8 +1,8 @@
 var1 = 000;
 var2 = 111;
 
-var3 = 2;
-var4 = 3;
+var3 = 22;
+var4 = 33;
 
 branch_var1 = 0;
 branch_var2 = 1;
