@@ -16,10 +16,5 @@ branch_var6 = 1;
 branch_var7 = 2;
 branch_var8 = 3;
 
-<<<<<<< HEAD
-branch_var9 = 0;
-branch_var10 = 0;
-=======
 branch_var9 = 100;
 branch_var10 = 100;
->>>>>>> branch02
