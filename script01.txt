@@ -19,5 +19,5 @@ branch_var8 = 3;
 branch_var9 = 4;
 branch_var10 = 5;
 
-brance03_var1 = 0;
-brance03_var2 = 1;
+branch03_var1 = 10;
+branch03_var2 = 10;
