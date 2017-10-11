@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 var1 = 000;
 var2 = 111;
+=======
+var1 = 789;
+var2 = 789;
+>>>>>>> branch02
 
 var3 = 22;
 var4 = 33;
@@ -9,3 +14,12 @@ branch_var2 = 1;
 
 branch_var3 = 2;
 branch_var4 = 3;
+
+branch_var5 = 0;
+branch_var6 = 1;
+
+branch_var7 = 2;
+branch_var8 = 3;
+
+branch_var9 = 4;
+branch_var10 = 5;
