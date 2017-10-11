@@ -21,3 +21,6 @@ branch_var10 = 5;
 
 branch03_var1 = 10;
 branch03_var2 = 10;
+
+branch04_var1 = 20;
+branch04_var2 = 20;
