@@ -4,7 +4,7 @@ var2 = 789;
 var3 = 22;
 var4 = 33;
 
-branch_var1 = 0;
+branch_var1 = 1;
 branch_var2 = 1;
 
 branch_var3 = 2;
