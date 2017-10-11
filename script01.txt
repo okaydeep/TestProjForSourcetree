@@ -3,3 +3,6 @@ var2 = 1;
 
 var3 = 2;
 var4 = 3;
+
+branch_var1 = 0;
+branch_var2 = 1;
